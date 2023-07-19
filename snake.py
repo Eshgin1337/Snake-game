@@ -1,13 +1,4 @@
 from turtle import Turtle
-#
-#
-# def game_over():
-#     announcement = Turtle()
-#     announcement.hideturtle()
-#     announcement.penup()
-#     announcement.pencolor("yellow")
-#     announcement.write("Game Over!", align="Center", font=("courier", 30, "bold"))
-
 
 class Snake:
     def __init__(self):
